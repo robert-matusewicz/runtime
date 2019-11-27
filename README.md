@@ -28,7 +28,7 @@ We welcome contributions! Many people all over the world have helped make this p
 
 * If you want to contribute a fix or improvement, you'll want to check out these links
 
-    * Requirements to build this repo ([Linux](docs/building/linux-requirements.md), [macOS](docs/building/macos-requirements.md), [Windows](docs/building/windows-requirements.md))
+    * Requirements to build this repo ([Linux](docs/workflow/linux-requirements.md), [macOS](docs/workflow/macos-requirements.md), [Windows](docs/workflow/windows-requirements.md))
     * What kind of contributions you might want to make [in the runtime](docs/coreclr/project-docs/contributing.md) and [in the libraries](docs/libraries/project-docs/contributing.md)
 	* [How you can make a change happen!](docs/coreclr/project-docs/contributing-workflow.md)
 	* How to build and test your change [in the runtime](docs/coreclr/project-docs/developer-guide.md) and [in the libraries](docs/libraries/project-docs/developer-guide.md)
